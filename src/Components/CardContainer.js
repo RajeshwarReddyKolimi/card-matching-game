@@ -97,6 +97,7 @@ export default function () {
     }
     return (
         <div className="board">
+            <h1>Card Matcher</h1>
             <div className="btn-holder">
                 <div className="flip-count">Flips: {flipCount}</div>
                 <div className="btn" onClick={handleRestart}>
