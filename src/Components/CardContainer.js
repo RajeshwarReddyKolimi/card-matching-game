@@ -117,10 +117,15 @@ export default function () {
                     />
                 ))}
             </div>
-            {matchedCount === 8 && (
+            {matchedCount === 0 && (
                 <div className="result">
+                    <h3 className="result-head">Won</h3>
                     <h3 className="result-head">Congratulations</h3>
-                    <button onClick={handleRestart} className="result-restart">
+
+                    <button
+                        onClick={handleRestart}
+                        className=" btn result-restart"
+                    >
                         Restart
                     </button>
                 </div>

@@ -1,11 +1,10 @@
-
-import './App.css';
-import CardMatching from './Components/CardMatching';
+import "./App.css";
+import CardContainer from "./Components/CardContainer";
 function App() {
-  return (
-    <div className="App">
-      <CardMatching />
-    </div>
-  );
+    return (
+        <div className="App">
+            <CardContainer />
+        </div>
+    );
 }
 export default App;
