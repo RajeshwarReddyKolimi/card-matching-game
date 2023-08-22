@@ -33,10 +33,7 @@ export default function (props) {
             }}
         >
             <div className="card-front">
-                <img
-                    src="https://media.istockphoto.com/id/1201188284/vector/luxury-wedding-invitation-and-greeting-card.jpg?s=612x612&w=0&k=20&c=eVJkyauNCFJUgS5hUFoABAbL4WeveQLCz6cfC2r1EE8="
-                    alt="Card"
-                />
+                <img src="/cardBG.jpg" alt="Card" />
             </div>
             <div className="card-back">
                 <div className="shine"></div>
