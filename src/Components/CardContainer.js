@@ -117,7 +117,7 @@ export default function () {
                     />
                 ))}
             </div>
-            {matchedCount === 0 && (
+            {matchedCount === 8 && (
                 <div className="result">
                     <h3 className="result-head">Won</h3>
                     <h3 className="result-head">Congratulations</h3>
