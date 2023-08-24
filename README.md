@@ -7,7 +7,7 @@ This project is a memory card matching game implemented using React. The objecti
 - Restart the game to its initial state.
 - Display a winning message and offer the option to restart when all pairs are matched.
 
-## Installation
+## Installation 
 - Clone the repository using the following command:
 `git clone https://github.com/your-username/card-matcher-game.git`
 - Navigate to the project directory:
