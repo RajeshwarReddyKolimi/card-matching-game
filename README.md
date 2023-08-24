@@ -1,6 +1,8 @@
 # Card Matching Memory Game
 This project is a memory card matching game implemented using React. The objective of the game is to find matching pairs of cards with the same icons. The game includes features such as tracking the number of flips, restarting the game, and displaying a congratulatory message upon winning.
 
+## [Live Demo](https://card-matching-game-by-rajeshwar.netlify.app/)
+
 ## Features
 - Memory card matching game with various icons.
 - Track the number of flips made during the game.
@@ -9,7 +11,7 @@ This project is a memory card matching game implemented using React. The objecti
 
 ## Installation 
 - Clone the repository using the following command:
-`git clone https://github.com/your-username/card-matcher-game.git`
+`git clone https://github.com/RajeshwarReddyKolimi/card-matching-game.git`
 - Navigate to the project directory:
 `cd card-matcher-game`
 - Install the required dependencies using npm or yarn:
